@@ -99,8 +99,7 @@ exit arch-chroot
 
 reboot system and relaunch using the grub boot loader
 
-#Class_Requirements
-
+# Class_Requirements
 
 ```ip link set enp0s3 up```
 ```dhcpcd enp0s3```
