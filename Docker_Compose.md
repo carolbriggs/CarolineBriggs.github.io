@@ -1,3 +1,5 @@
+# Docker (Project 2)
+
 Start OpenVPN and open Proxmox from the Cyber Studies Portal
 
 Create a VM running Ubuntu 22.04 (not 24.10 because it stopped being supported in July 2025)
@@ -8,7 +10,7 @@ Netmask : 255.255.255.0
 Gateway : 10.30.76.1
 DNS : 1.1.1.1
 
-#Install_Docker
+## Install_Docker
 
 Here is the guide I followed: [(https://docs.docker.com/engine/install/ubuntu/)]
 
@@ -47,7 +49,7 @@ ensure docker is running
 ```
 check that installation was completed correctly
 
-#Docker_Compose_GitLab
+## Docker_Compose_GitLab
 
 I followed this guide: [(https://medium.com/@BuildWithLal/gitlab-setup-using-docker-compose-a-beginners-guide-3dbf1ef0cbb2)]
 
