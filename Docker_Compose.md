@@ -12,7 +12,7 @@ DNS : 1.1.1.1
 
 ## Install_Docker
 
-Here is the guide I followed: [(https://docs.docker.com/engine/install/ubuntu/)]
+Here is the guide I followed: [https://docs.docker.com/engine/install/ubuntu/](https://carolbriggs.github.io/CarolineBriggs.github.io/Arch_Install.html)
 
 Here are the commands I an, in order:
 
@@ -50,7 +50,7 @@ check that installation was completed correctly
 
 ## Docker_Compose_GitLab
 
-I followed this guide: [(https://medium.com/@BuildWithLal/gitlab-setup-using-docker-compose-a-beginners-guide-3dbf1ef0cbb2)]
+I followed this guide: [https://medium.com/@BuildWithLal/gitlab-setup-using-docker-compose-a-beginners-guide-3dbf1ef0cbb2](https://carolbriggs.github.io/CarolineBriggs.github.io/Arch_Install.html)
 
 the compose.yml file (with minimal edits):
 ``` 
